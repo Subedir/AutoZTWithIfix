@@ -630,6 +630,12 @@ namespace AutoZT
             //set Data Ready rows Data Type to Boolean          
             SetRowValueOfDataTable(igsTable, "Tag Name", "ready", "Data Type", "Boolean");
 
+
+
+            // remove the Units and DataType columns for the dataTable igsTable
+            igsTable.Columns.RemoveAt(2); // this removes the Units column 
+            igsTable.Columns.RemoveAt(2); // this removes the DataType column
+
             //write igstable to csv file
             WriteDataTableToCsvFile(absolutePathAndFileName, igsTable, true, false);
 
@@ -826,6 +832,22 @@ namespace AutoZT
             WriteDataTableToCsvFile(absolutePathAndFileName, opcTable, true, false);
 
         }
+
+        private int setPointType(string DataType)
+        {
+            if (DataType.Equals("Boolean", StringComparison.CurrentCultureIgnoreCase))
+            {
+                return 1;
+            }
+
+            else
+            {
+                return 0;
+
+            }
+
+        }
+
 
 
         /// <summary>

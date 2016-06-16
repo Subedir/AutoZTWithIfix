@@ -11,3 +11,10 @@ C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\Nov 4 2011 v2
 C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.csproj.ResolveComReference.cache
 C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.exe
 C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.pdb
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\bin\Release\AutoZT.exe
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\bin\Release\AutoZT.pdb
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.csprojResolveAssemblyReference.cache
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.AboutBox.resources
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.Form1.resources
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.Properties.Resources.resources
+C:\Users\212478881\Documents\Work Files\Programming\AutoZT Program\AutoZT Working Project\AutoZT\AutoZT\obj\Release\AutoZT.csproj.GenerateResource.Cache
