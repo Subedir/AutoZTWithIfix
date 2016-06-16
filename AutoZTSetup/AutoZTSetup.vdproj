@@ -355,7 +355,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:AutoZTSetup"
         "ProductCode" = "8:{0CB10419-DE2F-4E36-A429-675E92545E90}"
-        "PackageCode" = "8:{B402B498-8845-413C-8C4D-F74B71020018}"
+        "PackageCode" = "8:{3CBD45C4-F8DD-480D-BA2A-C9C01F52A0AE}"
         "UpgradeCode" = "8:{1818CC1A-4CDF-4793-A1E9-199A51211DDE}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -486,7 +486,7 @@
             "Target" = "8:_88D31E2BDE284B5CA5DFF0137241970A"
             "Folder" = "8:_2F130BF02F564A09BB1147006D31BEF5"
             "WorkingFolder" = "8:_D66D637BD8D64C60B5B4E5173016835F"
-            "Icon" = "8:"
+            "Icon" = "8:_1E7638B36BF14438B607D665FB0516FC"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F3362255F6914E2783C68AAB4A827913"
@@ -500,7 +500,7 @@
             "Target" = "8:_88D31E2BDE284B5CA5DFF0137241970A"
             "Folder" = "8:_4EE4542D04D6425CBBC00DCB678C62C2"
             "WorkingFolder" = "8:_D66D637BD8D64C60B5B4E5173016835F"
-            "Icon" = "8:"
+            "Icon" = "8:_1E7638B36BF14438B607D665FB0516FC"
             "Feature" = "8:"
             }
         }
@@ -904,7 +904,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_88D31E2BDE284B5CA5DFF0137241970A"
             {
-            "SourcePath" = "8:..\\AutoZT\\obj\\Debug\\AutoZT.exe"
+            "SourcePath" = "8:..\\AutoZT\\obj\\Release\\AutoZT.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_D66D637BD8D64C60B5B4E5173016835F"
